@@ -1,10 +1,10 @@
 # passwd
-Mimicking passwd command on linux
+**Mimicking passwd command on linux**
 
 A program in C to mimic the “passwd” command on Linux. This command will help the user to change the password. The encryption and decryption of the password is part of this project.
 
 
-Steps to execute and flow of code:
+**Steps to execute and flow of code:**
 
 1.We should use the command <make -f make.mk> to run the make.mk file which links both .c files I.e.,(main.c and fun.c) and one .h file i.e., (server.h).
   
